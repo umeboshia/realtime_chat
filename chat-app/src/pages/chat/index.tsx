@@ -14,8 +14,8 @@ import {
   import { getDatabase, onChildAdded, push, ref } from '@firebase/database'
   import { FirebaseError } from '@firebase/util'
   
-  const _message = '確認用メッセージです。'
-  const _messages = [...Array(10)].map((_, i) => _message.repeat(i + 1))
+//   const _message = '確認用メッセージです。'
+//   const _messages = [...Array(10)].map((_, i) => _message.repeat(i + 1))
   
   type MessageProps = {
     message: string
