@@ -4,7 +4,7 @@ import { Box, Text } from '@chakra-ui/react'
 const Page: NextPage = () => {
     return (
       <Box>
-        <Text>dev</Text>
+        <Text>devved</Text>
       </Box>
     )
   };
