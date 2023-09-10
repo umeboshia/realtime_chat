@@ -1,5 +1,6 @@
 # realtime_chat
 
-https://zenn.dev/hisho/books/617d8f9d6bd78b
+FirebaseとTypeScriptとNext.jsを使ったリアルタイムチャットアプリ
 
-を試してみた
+
+https://zenn.dev/hisho/books/617d8f9d6bd78b
